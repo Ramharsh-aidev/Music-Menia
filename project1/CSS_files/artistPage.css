@@ -1,0 +1,26 @@
+#artistImg {
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    margin: 30px;
+    border-style: inset;
+    border-radius: 6% 0% 4% 0% / 6% 0% 4% 0%;
+    box-shadow: 1em;
+}
+
+#artistDetails {
+    padding: 30px;
+    float: right;
+    width: 65%;
+}
+
+.artists img {
+    justify-content: center;
+    width: 160px;
+    height: 170px;
+    margin: 10px;
+    border-style: inset;
+    border-radius: 65% 0% 44% 0% / 40% 67% 45% 2%;
+    box-shadow: 1em;
+    flex: 1;
+}
